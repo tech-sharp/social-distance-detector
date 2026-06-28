@@ -29,4 +29,4 @@ Design of the system:
 Performance:
 - How long does it take? What are the time limitations?
 - What resources can be used to speed it up?
-- Is there associated cost?
+- Is there associated cost?
